@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "jsx": "react-jsx",
+        "jsxImportSource": "hono/jsx",
+        "lib": ["es2023"],
+        "module": "ESNext",
+        "moduleResolution": "Bundler",
+        "types": ["@cloudflare/workers-types"],
+        "strict": true,
+        "noUncheckedIndexedAccess": true
+    }
+}
